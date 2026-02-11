@@ -1,9 +1,10 @@
 <template>
   <div>
     <center>
-      <div class="card"></div>
-      <h2 class="btn btn-outline-light">Halaman</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minus maiores ut fugit? Tenetur quia repellat molestias incidunt, provident vero?</p>
+      <div class="card">
+        <h2>Halaman</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minus maiores ut fugit? Tenetur quia repellat molestias incidunt, provident vero?</p>
+      </div>
     </center>
     </div>
 </template>
